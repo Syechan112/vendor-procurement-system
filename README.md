@@ -53,8 +53,5 @@ php artisan key:generate
 # 5. Migrasi database
 php artisan migrate
 
-# 6. (Opsional) Compile asset frontend jika menggunakan Tailwind/Alpine
-npm install && npm run dev
-
 # 7. Jalankan server
 php artisan serve
