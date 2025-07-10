@@ -23,7 +23,7 @@ Menguji kemampuan dalam:
 
 | Komponen       | Teknologi            |
 |----------------|----------------------|
-| Framework      | Laravel 11.x         |
+| Framework      | Laravel 12.x         |
 | Autentikasi    | Laravel Sanctum 🔐    |
 | Database       | MySQL / MariaDB      |
 | Format Data    | JSON                 |
